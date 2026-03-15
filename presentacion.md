@@ -1,6 +1,6 @@
 # Presentación
-Hola! Mi nombre es [COMPLETAR].
+Hola! Mi nombre es Bruno Valsangiacomo.
 
-En mi tiempo libre me gusta...
+En mi tiempo libre me gusta cocinar
 
-Mi instrucción favorita del manual de intel es...
+Mi instrucción favorita del manual de intel es (son todas).
